@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Let's Build Blue360 Media App</Text>
+      <Text>Let's Build Blue360 Media App. Today is 8/11/21</Text>
       <StatusBar style="auto" />
     </View>
   );
